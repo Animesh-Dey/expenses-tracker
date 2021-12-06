@@ -1,5 +1,3 @@
 # Demo
 
-Some description!!
-
-#Subheader
+Expenses Tracker Webapp Using React
